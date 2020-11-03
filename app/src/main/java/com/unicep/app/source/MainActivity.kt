@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
 
         val intent = Intent(this, LoginDataActivity::class.java).apply {
             putExtra("app.user", "Bia")
-            putExtra("app.password", "43212")
+            putExtra("app.password", "123mudar")
             putExtra("app.name", "Eva Soares")
             putExtra("app.cpf", cpf)
             putExtra("app.email", email)
