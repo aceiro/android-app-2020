@@ -1,8 +1,8 @@
-package com.unicep.app.provap1.view
+package com.unicep.app.source.view
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.unicep.app.provap1.R
+import com.unicep.app.source.R
 
 class LoginActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

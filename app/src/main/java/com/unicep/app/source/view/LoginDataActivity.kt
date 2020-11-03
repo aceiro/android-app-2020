@@ -1,12 +1,12 @@
-package com.unicep.app.provap1.view
+package com.unicep.app.source.view
 
 import android.content.Intent
 import android.os.Bundle
 import android.view.View
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-import com.unicep.app.provap1.MainActivity
-import com.unicep.app.provap1.R
+import com.unicep.app.source.MainActivity
+import com.unicep.app.source.R
 
 class LoginDataActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

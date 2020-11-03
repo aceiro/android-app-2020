@@ -1,4 +1,4 @@
-package com.unicep.app.provap1
+package com.unicep.app.source
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
